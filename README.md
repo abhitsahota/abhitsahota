@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on completing a web app that provides stats about a city's livability. 
 - 🌱 I’m currently learning MERN apps. 
-- 👯 I’m looking to collaborate on collaborating to open source. 
+- 👯 I’m looking to contribute to open source projects and building appsto make life easier. 
 - 📫 How to reach me: my [linkedin](https://www.linkedin.com/in/abhits/)
